@@ -50,6 +50,6 @@ Where $e(t) = \theta_{\text{target}} - \theta_{\text{AS5600}}$ represents the jo
 ---
 
 ## 👤 Author
-**Thanadon Poonsakhu (Kong)**  
+**Thanadon Poonsakhu (gong)**  
 Robotics and Automation Engineering Student @ FIBO, KMUTT  
 Focus: Full-Stack Hardware, Custom PCB Design, Embedded C/C++, and Dexterous Manipulation
