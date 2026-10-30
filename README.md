@@ -22,7 +22,7 @@ The hardware pipeline spans from schematic capture and PCB layout design to phys
 
 | Schematic Design | PCB Layout | Real-World Assembled Hardware |
 | :---: | :---: | :---: |
-| ![Schematic](ORCA-Smart-Actuator-Prosthesis/docs/schematic.png)[cite: 10] | ![PCB Layout](ORCA-Smart-Actuator-Prosthesis/docs/layout.png)[cite: 8] | ![Real Board](ORCA-Smart-Actuator-Prosthesis/docs/real_board.png)[cite: 9] |
+| ![Schematic](ORCA-Smart-Actuator-Prosthesis/docs/schematic.png)[cite: 10] | ![PCB Layout](ORCA-Smart-Actuator-Prosthesis/docs/layout.png)[cite: 8] | ![Real Board](ORCA-Smart-Actuator-Prosthesis/docs/real_board.jpg)[cite: 9] |
 
 - **Schematic Capture:** Modular hierarchical design separating power regulation, MCU core, magnetic encoder, and motor driver stages.
 - **PCB Layout:** Compact 2-layer design optimizing power traces and minimizing noise for magnetic sensors.
